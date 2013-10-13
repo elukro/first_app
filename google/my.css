@@ -1,0 +1,292 @@
+﻿body{
+    color: black;
+   font-size: small;
+font-family: arial,sans-serif;
+padding: 0;
+margin: 0px;
+}
+#header{
+    background:#f1f1f1;
+    height:60px;
+     position: absolute;
+     top: 0;
+     width:100%;
+     margin-left: 0!important;
+     left: 0;
+}
+#leftHeader{
+    width: 127px;
+   
+}
+#logo{
+    background-image:url(logo1.png);
+    background-position: -69px -208px;
+    
+height: 33px;
+width: 92px;
+  
+    display: block;
+  
+}
+#key{
+position:absolute;
+margin-left:570px;
+margin-top:-20px;
+
+}
+#leftHeaderV{
+   display: block;
+    position: absolute;
+padding: 15px 20px 0 15px;
+}
+#input{
+font: 16px arial,sans-serif;
+padding-left:8px;
+}
+.down{
+border-color: rgb(144, 144, 144) transparent;
+border-style: solid;
+border-width: 4px 4px 0px;
+width: 0px;
+height: 0px;
+
+top: 50%;
+
+position: absolute;
+left:415px;
+top:88px;
+}
+#linkl{
+ 
+}
+#forma{
+    margin-left:127px;
+    height: 30px;
+}
+form input {
+    height: 24px;
+    margin-top:15px;
+    width: 590px;
+}
+#button{
+   border-radius: 2px;
+   border-bottom-left-radius: 0;
+border-top-left-radius: 0;
+height: 30px;
+outline: none;
+padding: 0, 0;
+width: 60px;
+    margin-left:593px;
+   margin-top:-30px;
+    background: #4683ea;
+border:none;
+}
+#b_s{
+    background-image: url('logo1.png');
+background-size: 271px 616px;
+background-position: -100px -173px;
+display: block;
+height: 30px;
+width: 30px;
+margin-left:12px;
+}
+#rightB{
+    float: right;
+   margin-right: 15px;
+    margin-top: -15px;
+}
+#link2{
+    padding: 0 12px;
+    border: 1px solid #4285f4;
+font-weight: bold;
+outline: none;
+background: #4683ea;
+display: inline-block;
+line-height: 28px;
+-webkit-border-radius: 2px;
+border-radius: 2px;
+color: white;
+text-decoration: none;
+}
+#nav{
+    line-height: 59px;
+    width:100%;
+   border-bottom: 1px solid #ebebeb;
+   
+}
+.navl{
+    
+     margin-right: 16px;
+    
+}
+.nav2,.navf{
+   
+margin-right: 29px;
+}
+#navmenu,#navf{
+     margin-left: 132px;
+}
+#navf a{
+    color: #666;
+    text-decoration: none;
+}
+#nav a{
+ color: #666;
+    text-decoration: none;
+	}
+#navf a:hover {
+    color:black;
+    }
+#nav a:hover {
+    color:black;
+    }
+.nav3  {
+border-bottom: 3px solid #dd4b39;
+color:#dd4b39;
+padding-bottom:19px;
+padding-left:5px;
+padding-right:3px;
+
+}
+#cont{
+    margin-left: 134px;
+    width: 512px;
+	
+}
+#footer{
+  background: #f2f2f2;
+border-top: 1px solid #e4e4e4;
+line-height: 40px;
+margin-top:30px;
+}
+#number{
+    width:528px;
+    margin-left: 99px;
+	margin-top:25px;
+	
+}
+#number_b{
+  background: url(logo.png) no-repeat;
+background-position: -24px 0;
+width: 28px;
+height: 40px;
+float:left;
+}
+#number_o{
+background: url(logo.png) no-repeat;
+background-position: -53px 0;
+width: 20px;
+float:left;
+height: 40px;
+}
+.number_o{
+background: url(logo.png) no-repeat;
+background-position: -74px 0;
+width: 20px;
+float:left;
+height: 40px;
+}
+
+#number_end{
+background: url(logo.png) no-repeat;
+background-position: -96px 0;
+width: 71px;
+float:left;
+height: 40px;
+}
+#numberAll{
+   
+    margin-left: 34px;
+}
+.navn{
+     text-decoration: none;
+        margin-right: 8px;
+}
+#navn{
+    margin-left: 48px;
+    font-weight: bold;
+}
+#language{
+    margin-top:25px;
+}
+.result{
+margin-top:25px;
+}
+.nuz{
+ margin-top:10px;
+}
+h3 a{
+    font-size: medium;
+    font-weight: normal;
+    color:red;
+}
+h3 a{
+    color:#2518b5;
+}
+h3{
+    margin: 0px;
+margin-top:20px;
+}
+p{
+    margin: 0;
+}
+.green{
+   color:#00802a;
+    margin:0px;
+    font-size: 14px;
+}
+.recom{
+    font-size: medium;
+font-weight: normal;
+margin-top:20px;
+font-family: arial,sans-serif;
+text-align: left;
+}
+em {
+font-weight: bold;
+font-style: normal;
+
+}
+.recom a{
+font-size: small;
+padding-top: 5px;
+}
+#left{
+width:138px;
+float: left;
+padding-right: 16px;
+display: inline-block;
+}
+#left p{
+padding-top: 5px;
+}
+#right p{
+padding-top: 5px;
+}
+#right{
+float:left;
+}
+#rightBanner{
+width: 435px;
+height:210px;
+border: 1px solid #ebebeb;
+position:absolute;
+left:705px;
+top:165px;
+padding:13px;
+padding-right:5px;
+}
+#bannerHeader{
+font-size: 30px;
+}
+#banner{
+color: #999;
+font-size: 11px;
+text-decoration: none;
+}
+#founder{
+text-decoration: none;
+}
+#w3c{
+float:right;
+}

@@ -1,0 +1,53 @@
+#header{
+    background:#e5e5e5;
+    height:60px;
+     position: absolute;
+     top: 0;
+     width:100%;
+     margin-left: 0!important;
+     left: 0;
+}
+#leftHeader{
+    width: 127px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 58px;
+     
+}
+#logo{
+    background-image:url(logo1.png);
+    background-position: -69px -208px;
+    
+height: 33px;
+width: 92px;
+  
+    display: block;
+  
+}
+#leftHeaderV{
+   display: block;
+    position: absolute;
+padding: 0px 20px 0 15px;
+
+
+}
+#linkl{
+   display: inline-block;
+    vertical-align: middle;
+    line-height: 58px;
+}
+#forma{
+     
+}
+
+#parent {
+    line-height: 58px;
+}
+
+#parent img {
+    vertical-align: middle;
+    background-position: -69px -208px;
+    
+height: 33px;
+width: 92px;
+}
